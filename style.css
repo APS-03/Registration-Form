@@ -1,0 +1,42 @@
+
+*{
+    padding: 0;
+    margin: 20px;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: #444 solid 1px;
+    border-radius: 20px;
+    background-color: rgb(202, 228, 228);
+}
+
+h1{
+    text-align: center;
+    font-family: "Cedarville Cursive", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+label{
+    font-family: 'Pacifico', 'Dancing Script', cursive;
+    font-size: 16px;
+    font-weight: normal;
+    color: #444;
+}
+
+.controls{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container{
+    margin: 0;
+    font: 1em sans-serif;;
+    font-weight: 200;
+    padding: 10;
+}
